@@ -1,0 +1,27 @@
+Azul Fives Hotel (5 stars): $210.00
+Blue Bay Grand Esmeralda (5 stars): $200.00
+Fairmont Mayakoba (5 stars): $190.00
+Grand Bahia Principe Coba (5 stars): $250.00
+Grand Riviera Princess (5 stars): $190.00
+Iberostar Paraiso Beach (5 stars): $220.00
+Iberostar Paraiso Del Mar (5 stars): $190.00
+Iberostar Paraiso Lindo (5 stars): $180.00
+Iberostar Paraiso Maya (5 stars): $200.00
+Luxury Grand Bahia Principe Akumal (5 stars): $220.00
+Occidental Grand Xcaret (5 stars): $210.00
+Platinum Yucatan Princess Suites And Spa (5 stars): $230.00
+Royal Playa Del Carmen (5 stars): $190.00
+Royalton Riviera Resort And Spa (5 stars): $190.00
+Allegro Playacar Beach Club (4 stars): $150.00
+Barcelo Maya Beach (4 stars): $160.00
+Barcelo Maya Caribe (4 stars): $170.00
+Barcelo Maya Colonial (4 stars): $140.00
+Oasis Tulum (4 stars): $160.00
+Catalonia Playa Maroma (3 stars): $90.00
+Catalonia Yucatan (3 stars): $100.00
+Dreams Puerto Aventuras (3 stars): $110.00
+El Dorado Seaside (3 stars): $120.00
+Ocean Turquesa (3 stars): $110.00
+Riu Lupita (3 stars): $110.00
+Riu Tequila (3 stars): $90.00
+Tukan Hotel And Beach Club (3 stars): $100.00
